@@ -1,4 +1,10 @@
-## Hi there 👋
+## Greetings! 👋
+
+I am a sofware consultant with many years experience of web applications and databases.
+
+I focus mainly on Laravel-based applications.
+
+🔭 I’m currently working on a simple lending library aplication.
 
 <!--
 **tmglare/tmglare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
